@@ -106,5 +106,5 @@
 * Smash Brothers: Creates a great framework for paced duels that can have varying levels of depth given a relatively simple pallet of inputs
 * Quake-likes: Encourages use of acceleration and motion continued momentum as a gameplay mechanic. The progenitor of Rocket Jumping.
 * TF2 Mannpower Mode: The grapple hook in this game forces players to wait as it shoots out, which encourages grappling while moving along as a natural progression. It also creates a fantastic change in acceleration.
-
+* Final Fantasy XIV: MMOs are really boring but this game managed to make you feel accomplished when you learned, because every spell you learned wasn't about numbers as much as "how can I fit this into my flow". By the time you reached level 50 you really "felt" like a Mage/etc.
 
