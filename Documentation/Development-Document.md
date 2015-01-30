@@ -97,7 +97,13 @@
 
 ###### Chris
 
-* Please fill in your personal goals and add any other more big-picture goals as you see fit
+* Create an all-inclusive/cohesive map, including all assets, textures, models, effects, etc
+* Evoke a mood atmosphere and tone that encourage varied gameplay
+* Craft a visual style reminiscent of Films like Tron, Akira, Blade Runner, etc.
+* Create a saturation dissonance between character and their environment making the game easy to “read” both for experienced player and rookies 
+* Create assets that are strong on their own, making the world feel rich and realized, NO six quad doors with low res textures.
+* Learn the ins and outs of animating from first and third person, and create fully animated characters from first and third person
+
 
 
 ##### Works to remember and draw from
@@ -107,4 +113,5 @@
 * Quake-likes: Encourages use of acceleration and motion continued momentum as a gameplay mechanic. The progenitor of Rocket Jumping.
 * TF2 Mannpower Mode: The grapple hook in this game forces players to wait as it shoots out, which encourages grappling while moving along as a natural progression. It also creates a fantastic change in acceleration.
 * Final Fantasy XIV: MMOs are really boring but this game managed to make you feel accomplished when you learned, because every spell you learned wasn't about numbers as much as "how can I fit this into my flow". By the time you reached level 50 you really "felt" like a Mage/etc.
+* Jak II: Creates a Blade Runner-esque world with cartoony character, the result is a beautiful game not limited by dated hardware
 
